@@ -1,0 +1,21 @@
+html{
+  background-color: #CAEEEB;
+  color: #242424;
+  font-family: 'Gelasio', serif;
+  margin: 0;
+  padding: 0 10% 0 10%;
+}
+
+body{
+  background-color: #6498FF;
+  margin: 0;
+  padding: 0;
+}
+
+.body{
+  padding: 0 1% 1% 1%;
+}
+
+hr{
+  border-color: #242424;
+}

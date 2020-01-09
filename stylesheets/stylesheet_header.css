@@ -1,0 +1,29 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #8A60C2;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #805572;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #242424;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a:hover{
+  color: #242424;
+  background-color: #805572;
+}
