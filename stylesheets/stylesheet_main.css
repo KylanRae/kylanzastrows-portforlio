@@ -19,3 +19,9 @@ body{
 hr{
   border-color: #242424;
 }
+
+.headshot{
+  width: 15%;
+  float: right;
+  padding-left: 1%;
+}
