@@ -2,21 +2,16 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: #8A60C2;
-  border-style: solid;
-  border-width: 4px;
-  border-color: #805572;
-}
-
-li {
-  float: left;
+  background-color: #DAADFF;
+  margin-right: 90%;
+  height: 100%;
+  position: fixed;
 }
 
 li a {
   display: block;
-  color: #242424;
-  text-align: center;
+  color: #141414;
+  text-align: left;
   padding: 14px 16px;
   text-decoration: none;
   font-weight: bold;
@@ -24,6 +19,16 @@ li a {
 }
 
 a:hover{
-  color: #242424;
-  background-color: #805572;
+  color: #141414;
+  background-color: #519958;
+}
+
+h1{
+  text-align: center;
+  background-color: #DAADFF;
+  margin-left: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-size: 400%;
+  padding-left: 0;
 }
