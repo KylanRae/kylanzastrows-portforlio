@@ -1,4 +1,18 @@
+.post{
+  padding-left: 15%;
+}
+
 .postimage{
-  float: left;
   padding-right: 1%;
+  width: 20%;
+}
+
+h6{
+  font-size: 200%;
+  padding-bottom: 1%;
+  margin-bottom: 0;
+}
+
+a:hover{
+  background-color: #F8FFEE;
 }
