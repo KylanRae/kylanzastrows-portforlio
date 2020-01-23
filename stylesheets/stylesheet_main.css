@@ -12,7 +12,8 @@ body{
 
 .body{
   padding: 0 1% 1% 1%;
-  margin-left: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 hr{
