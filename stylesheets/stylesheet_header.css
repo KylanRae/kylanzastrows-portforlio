@@ -24,15 +24,6 @@ ul a:hover {
   background-color: #519958;
 }
 
-@media screen and (max-width: 500px) {
-  ul a {
-    float: none;
-    display: block;
-    width: 100%;
-    text-align: left;
-  }
-}
-
 h1{
   text-align: center;
   background-color: #DAADFF;
